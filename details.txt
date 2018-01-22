@@ -1,0 +1,1 @@
+{"name":"Kritika","age":24,"address":{"street":"Kasturba Gandhi Marg","houseNo":1891},"salary":12000.0}
